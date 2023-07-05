@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/deep-fake-demo/static/js/main.aea58c2d.chunk.js",
+    "main.js.map": "/deep-fake-demo/static/js/main.aea58c2d.chunk.js.map",
+    "runtime-main.js": "/deep-fake-demo/static/js/runtime-main.44f8b689.js",
+    "runtime-main.js.map": "/deep-fake-demo/static/js/runtime-main.44f8b689.js.map",
+    "static/js/2.0ebb8786.chunk.js": "/deep-fake-demo/static/js/2.0ebb8786.chunk.js",
+    "static/js/2.0ebb8786.chunk.js.map": "/deep-fake-demo/static/js/2.0ebb8786.chunk.js.map",
+    "static/js/3.7c890dfc.chunk.js": "/deep-fake-demo/static/js/3.7c890dfc.chunk.js",
+    "static/js/3.7c890dfc.chunk.js.map": "/deep-fake-demo/static/js/3.7c890dfc.chunk.js.map",
+    "index.html": "/deep-fake-demo/index.html",
+    "static/js/2.0ebb8786.chunk.js.LICENSE.txt": "/deep-fake-demo/static/js/2.0ebb8786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44f8b689.js",
+    "static/js/2.0ebb8786.chunk.js",
+    "static/js/main.aea58c2d.chunk.js"
+  ]
+}
