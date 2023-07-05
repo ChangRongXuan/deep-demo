@@ -2,6 +2,7 @@
   "name": "@examples/dom-cra",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "installConfig": {
     "hoistingLimits": "dependencies"
   },
