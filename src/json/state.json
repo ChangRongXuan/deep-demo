@@ -1,0 +1,149 @@
+{
+  "sheetsById": {
+    "Scene": {
+      "staticOverrides": {
+        "byObject": {
+          "box1": {
+            "position": {
+              "x": 701,
+              "y": 635
+            }
+          },
+          "box": {
+            "position": {
+              "x": 1006,
+              "y": 567
+            }
+          },
+          "中文": {
+            "position": {
+              "x": 992,
+              "y": 637
+            }
+          },
+          "box10": {
+            "position": {
+              "x": 711,
+              "y": 646
+            }
+          },
+          "test": {
+            "position": {
+              "x": 1015,
+              "y": 638
+            }
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "box1": {
+            "trackData": {
+              "6Kibztjw3n": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "box1:[\"position\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "zl0jY_9DFu",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [0.5, 1, 0.5, 0],
+                    "type": "bezier",
+                    "value": 1004
+                  }
+                ]
+              },
+              "haBbYTF_nB": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "box1:[\"position\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "mE6IX69KnM",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [0.5, 1, 0.5, 0],
+                    "type": "bezier",
+                    "value": 589
+                  },
+                  {
+                    "id": "q4AXtFkk7E",
+                    "position": 0.3,
+                    "connectedRight": true,
+                    "handles": [0.5, 1, 0.5, 0],
+                    "type": "bezier",
+                    "value": 635
+                  },
+                  {
+                    "id": "yEZfvXclj5",
+                    "position": 2.467,
+                    "connectedRight": true,
+                    "handles": [0, 0.7142857142857143, 0.5, 0],
+                    "type": "bezier",
+                    "value": 357
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"x\"]": "6Kibztjw3n",
+              "[\"position\",\"y\"]": "haBbYTF_nB"
+            }
+          },
+          "box": {
+            "trackData": {
+              "ryWEnj5MYo": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "box:[\"position\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "ClgIHgy9HF",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [0.5, 1, 0.5, 0],
+                    "type": "bezier",
+                    "value": 1006
+                  },
+                  {
+                    "id": "_j3Z4a66w7",
+                    "position": 3.067,
+                    "connectedRight": true,
+                    "handles": [0.5, 1, 0.5, 0],
+                    "type": "bezier",
+                    "value": 633
+                  }
+                ]
+              },
+              "X6MLobOoII": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "box:[\"position\",\"y\"]",
+                "keyframes": []
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"x\"]": "ryWEnj5MYo",
+              "[\"position\",\"y\"]": "X6MLobOoII"
+            }
+          },
+          "box10": {
+            "trackData": {},
+            "trackIdByPropPath": {}
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "kbaaFD0ni6lYY6gf",
+    "yBUZOuMDDbnsN8eC",
+    "aE4TSm1MvPJaS_Rp",
+    "0MrE4zgSGKfFtASt",
+    "XVNPxYu6DcrIiPPc",
+    "pDIcq-DRJ6dSe_k7",
+    "Ntvwy4Up71PGw4Gl",
+    "WujUIeZColnJv6mb"
+  ]
+}
